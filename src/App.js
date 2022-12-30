@@ -1,7 +1,7 @@
-import Todo from "components/Todo";
+import TodoForm from "components/TodoForm";
 
 function App(props) {
-  return <Todo />;
+  return <TodoForm />;
 }
 
 export default App;
